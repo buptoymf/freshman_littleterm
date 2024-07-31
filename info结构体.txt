@@ -1,0 +1,16 @@
+struct info_list
+{
+	
+	char order_NUMBER[20];
+	int order_IDENTITY1;
+	int order_IDENTITY2;
+	int order_IDENTITY3;
+	char order_AGE[20];
+	int number;
+	int order_YEAR;
+	int order_MONTH;
+	int order_DAY;
+	int order_HOUR;
+	int order_MINUTE;
+	char order_ID[20];
+}info[NUMBER];
